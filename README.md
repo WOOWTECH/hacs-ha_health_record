@@ -5,7 +5,7 @@
 
 - Domain: `ha_health_record`
 - Version: `1.1.0`
-- Synced from commit: [`de58e1e`](https://github.com/WOOWTECH/Woow_ha_records/commit/de58e1e66be183dccc05b71f6dcb94224272fc83)
+- Synced from commit: [`631759d`](https://github.com/WOOWTECH/Woow_ha_records/commit/631759d466329253b477c3730909cfdc795f98e5)
 
 ## Install via HACS
 
